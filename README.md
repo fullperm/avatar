@@ -1,1 +1,1 @@
-# avatar
+# Fullperm mesh avatar for Secondlife & OpenSim
